@@ -8,5 +8,5 @@ hello wx
 hello wx
 hello wx
 hello wx
-hello wx
+hello wxmaster
 hello wx
